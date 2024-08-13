@@ -1,0 +1,13 @@
+
+.heading {
+color:blue;
+background-color: yellow;
+text-decoration: "line-through";
+}
+body {
+    background-color: pink;
+}
+button {
+    background-color: Blue;
+    color:white;
+}
